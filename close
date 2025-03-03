@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <script>
+    window.onload = function() {
+      window.open('', '_self', ''); // Some browser hacks
+      window.close(); // Close the tab
+    };
+  </script>
+</head>
+<body>
+  <p>Closing...</p>
+</body>
+</html>
